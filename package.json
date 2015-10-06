@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/pgrippi/ember-cli-google-analytics.git"
+    "url": "git://github.com/jsteenbeeke/ember-cli-google-analytics.git"
   },
   "bugs": {
-    "url": "https://github.com/pgrippi/ember-cli-google-analytics/issues"
+    "url": "https://github.com/jsteenbeeke/ember-cli-google-analytics/issues"
   },
-  "homepage": "https://github.com/pgrippi/ember-cli-google-analytics",
+  "homepage": "https://github.com/jsteenbeeke/ember-cli-google-analytics",
   "engines": {
     "node": ">= 0.10.0"
   },
